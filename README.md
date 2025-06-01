@@ -1,6 +1,6 @@
 # Live-Map-ATC
 Live Map ATC Script for Geo-FS.
-This Script is initially made by ThePlaneGuy45. Some features and new UI has been added.
+This Script is initially made by ThePlaneGuy45. This Addon enables chat functionality in the live map as well as offers some ATC Functionality. Some features and new UI has been added.
 
 ## Using the addon
 This is used at https://geo-fs.com/pages/map.php NOT in the actual game
