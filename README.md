@@ -11,3 +11,5 @@ It will also highlight messages that have a [frequency] appended to them.
 New Features: 
 1. New Appealing UI.
 2. NotePad at Top right for ease of callsign management.
+ UI:
+![image](https://github.com/user-attachments/assets/10e83a07-0341-4c7c-a1d3-9466bc53bc73)
