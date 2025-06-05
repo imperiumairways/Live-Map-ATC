@@ -3,8 +3,18 @@ Live Map ATC Script for Geo-FS.
 This Script is initially made by ThePlaneGuy45. This Addon enables chat functionality in the live map as well as offers some ATC Functionality. Some features and new UI has been added.
 
 ## How to Apply
-Click on addon.js file, copy the file contents, go to Go to https://geo-fs.com/pages/map.php, NOT IN THE GAME. Go to console (Open it via control + shift + j) and paste the script there.
-Tampermonkey not supported Yet.
+### 1. Apply via Tampermonkey (Preffered)
+1. Open tampermonkey.ATCAddon.js script and copy its contents.
+2. Click on tampermonkey extension, click on create a new script.
+3. Paste the copied contents from tampermonkey.ATCAddon.js and click save.
+   The script will be applied via tampermonkey.
+
+### 2. Apply directly via console (Not Preffered)
+1. Open console.addon.js  script and copy its contents.
+2. Go to https://geo-fs.com/pages/map.php NOT Actual Game.
+3. Open console (by doing Control + Shift + J) and paste the addon script there.
+4. Hit Enter, and the script will be applied.
+
 
 ## Using the addon
 This is used at https://geo-fs.com/pages/map.php NOT in the actual game
