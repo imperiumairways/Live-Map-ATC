@@ -2,6 +2,10 @@
 Live Map ATC Script for Geo-FS.
 This Script is initially made by ThePlaneGuy45. This Addon enables chat functionality in the live map as well as offers some ATC Functionality. Some features and new UI has been added.
 
+## How to Apply
+Click on addon.js file, copy the file contents, go to Go to https://geo-fs.com/pages/map.php, NOT IN THE GAME. Go to console (Open it via control + shift + j) and paste the script there.
+Tampermonkey not supported Yet.
+
 ## Using the addon
 This is used at https://geo-fs.com/pages/map.php NOT in the actual game
 To select a frequency, type in the "frequency" box
